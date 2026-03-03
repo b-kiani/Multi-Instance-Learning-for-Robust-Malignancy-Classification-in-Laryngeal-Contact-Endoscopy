@@ -1,0 +1,330 @@
+filepath,Patient,modality,label_binary,Histopathology,Leukoplakia,Type of Lesion,height,width,res,res_group,split_standard
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient149/P149 (1).jpg,Patient149,,1,SCC,Yes,Malignant,1080,1736,1736x1080,minor,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient149/P149 (2).jpg,Patient149,,1,SCC,Yes,Malignant,1080,1736,1736x1080,minor,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient149/P149 (4).jpg,Patient149,,1,SCC,Yes,Malignant,1080,1736,1736x1080,minor,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient149/P149 (5).jpg,Patient149,,1,SCC,Yes,Malignant,1080,1736,1736x1080,minor,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient149/P149 (3).jpg,Patient149,,1,SCC,Yes,Malignant,1080,1736,1736x1080,minor,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (33).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (17).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (11).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (65).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (9).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (42).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (36).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (57).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (64).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (49).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (60).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (45).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (27).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (66).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (37).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (10).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (28).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (26).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (67).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (48).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (8).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (7).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (56).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (50).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (16).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (24).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (69).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (58).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (62).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (53).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (39).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (55).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (23).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (32).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (40).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (30).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (3).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (47).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (70).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (51).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (34).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (2).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (1).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (13).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (5).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (4).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (61).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (29).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (20).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (6).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (22).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (25).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (63).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (15).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (18).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (46).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (52).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (41).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (68).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (59).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (54).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (12).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (21).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (14).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (31).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (43).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (44).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (35).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (38).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/SCC/Patient104/P104 (19).jpg,Patient104,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (13).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (23).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (8).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (10).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (24).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (20).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (15).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (29).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (9).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (25).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (30).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (4).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (18).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (17).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (7).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (19).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (12).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (3).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (5).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (1).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (27).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (26).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (16).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (14).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (2).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (28).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (22).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (21).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (6).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/High_grade_dysplasia/Patient110/P110 (11).jpg,Patient110,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (17).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (11).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (13).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (2).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (23).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (7).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (19).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (20).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (1).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (16).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (15).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (22).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (14).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (6).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (5).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (9).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (4).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (10).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (21).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (12).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (18).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (8).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (3).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient068/P068 (24).jpg,Patient068,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (12).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (1).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (10).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (13).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (11).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (5).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (14).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (3).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (2).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (4).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (9).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (8).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (6).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient026/P026 (7).jpg,Patient026,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (15).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (59).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (60).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (5).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (14).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (21).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (9).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (58).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (51).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (6).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (42).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (16).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (11).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (52).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (31).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (28).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (7).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (54).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (33).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (39).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (56).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (17).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (8).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (22).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (13).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (32).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (37).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (19).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (20).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (2).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (43).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (4).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (25).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (34).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (27).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (48).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (1).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (40).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (41).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (38).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (49).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (24).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (35).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (47).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (50).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (18).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (36).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (26).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (23).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (44).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (10).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (3).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (29).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (46).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (12).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (57).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (53).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (30).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (45).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Malignant/Carcinoma_in_situ/Patient013/P013 (55).jpg,Patient013,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (23).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (27).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (41).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (26).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (45).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (44).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (49).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (35).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (16).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (38).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (5).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (6).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (17).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (15).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (29).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (37).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (39).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (14).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (22).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (30).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (4).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (10).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (11).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (1).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (33).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (25).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (50).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (42).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (7).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (8).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (47).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (28).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (32).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (46).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (31).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (2).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (3).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (34).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (21).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (19).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (48).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (12).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (18).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (40).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (36).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (24).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (13).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (20).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (9).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient094/P094 (43).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (98).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (102).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (65).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (86).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (68).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (69).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (103).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (63).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (62).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (73).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (91).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (81).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (61).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (107).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (104).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (83).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (87).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (95).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (82).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (64).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (96).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (59).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (99).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (110).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (77).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (94).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (100).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (1).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (80).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (92).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (93).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (75).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (111).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (79).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (57).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (76).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (88).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (66).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (78).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (89).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (58).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (74).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (101).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (90).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (72).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (106).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (84).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (105).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (109).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (70).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (108).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (67).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (60).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (85).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (97).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Low_grade_dysplasia/Patient002/P002 (71).jpg,Patient002,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (11).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (6).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (1).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (2).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (20).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (16).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (5).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (19).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (13).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (7).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (15).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (17).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (10).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (12).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (9).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (8).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (4).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (18).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (3).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test
+/content/drive/MyDrive/ENT/Data/Benign/Hyperkeratosis/Patient048/P048 (14).jpg,Patient048,,0,Hyperkeratosis,Yes,Benign,1008,1280,1280x1008,major,test

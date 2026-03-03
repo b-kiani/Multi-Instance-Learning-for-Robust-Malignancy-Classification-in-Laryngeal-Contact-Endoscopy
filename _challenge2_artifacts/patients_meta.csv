@@ -1,0 +1,211 @@
+Patient,Type of Lesion,Histopathology,Leukoplakia,y_bin,leuko_bin,fs_n_images
+Patient001,Malignant,SCC,No,1,0,8
+Patient002,Benign,Low grade dysplasia,Yes,0,1,56
+Patient003,Benign,Reinke’s edema,No,0,0,30
+Patient004,Benign,Papilloma,No,0,0,20
+Patient005,Benign,Hyperkeratosis,Yes,0,1,2
+Patient006,Malignant,High grade dysplasia,No,1,0,13
+Patient007,Benign,Reinke’s edema,No,0,0,12
+Patient008,Benign,Papilloma,No,0,0,31
+Patient009,Malignant,SCC,Yes,1,1,4
+Patient010,Benign,Hyperkeratosis,No,0,0,12
+Patient011,Benign,Polyp,No,0,0,40
+Patient012,Benign,Reinke’s edema,No,0,0,44
+Patient013,Malignant,Carcinoma in situ,Yes,1,1,60
+Patient014,Benign,Papilloma,No,0,0,32
+Patient015,Malignant,SCC,Yes,1,1,73
+Patient016,Benign,Cyst,No,0,0,42
+Patient017,Benign,Low grade dysplasia,Yes,0,1,74
+Patient018,Malignant,High grade dysplasia,Yes,1,1,41
+Patient019,Benign,Polyp,No,0,0,26
+Patient020,Benign,Cyst,No,0,0,48
+Patient021,Malignant,Carcinoma in situ,Yes,1,1,15
+Patient022,Benign,Reinke’s edema,No,0,0,18
+Patient023,Benign,Hyperkeratosis,No,0,0,27
+Patient024,Malignant,High grade dysplasia,Yes,1,1,26
+Patient025,Benign,Polyp,No,0,0,10
+Patient026,Malignant,Carcinoma in situ,Yes,1,1,14
+Patient027,Benign,Reinke’s edema,No,0,0,34
+Patient028,Malignant,Carcinoma in situ,No,1,0,45
+Patient029,Benign,Reinke’s edema,No,0,0,30
+Patient030,Benign,Papilloma,No,0,0,17
+Patient031,Malignant,High grade dysplasia,Yes,1,1,40
+Patient032,Benign,Hyperkeratosis,No,0,0,23
+Patient033,Benign,Papilloma,No,0,0,56
+Patient034,Benign,Reinke’s edema,No,0,0,78
+Patient035,Benign,Papilloma,No,0,0,91
+Patient036,Malignant,High grade dysplasia,Yes,1,1,36
+Patient037,Benign,Cyst,No,0,0,60
+Patient038,Benign,Polyp,No,0,0,54
+Patient039,Benign,Squamous hyperplasia,Yes,0,1,30
+Patient040,Malignant,Carcinoma in situ,No,1,0,36
+Patient041,Malignant,SCC,No,1,0,39
+Patient042,Benign,Low grade dysplasia,Yes,0,1,22
+Patient043,Benign,Reinke’s edema,No,0,0,72
+Patient044,Benign,Papilloma,No,0,0,30
+Patient045,Benign,Papilloma,No,0,0,39
+Patient046,Benign,Reinke’s edema,No,0,0,30
+Patient047,Benign,Polyp,No,0,0,9
+Patient048,Benign,Hyperkeratosis,Yes,0,1,20
+Patient049,Benign,Nodule,No,0,0,26
+Patient050,Malignant,SCC,Yes,1,1,65
+Patient051,Benign,Granuloma,No,0,0,28
+Patient052,Benign,Squamous hyperplasia,No,0,0,27
+Patient053,Benign,Squamous hyperplasia,Yes,0,1,18
+Patient054,Benign,Papilloma,No,0,0,21
+Patient055,Benign,Amyloidosis,No,0,0,10
+Patient056,Benign,Amyloidosis,No,0,0,22
+Patient057,Benign,Papilloma,No,0,0,45
+Patient058,Benign,Reinke’s edema,No,0,0,17
+Patient059,Benign,Reinke’s edema,No,0,0,28
+Patient060,Benign,Hyperkeratosis,Yes,0,1,90
+Patient061,Benign,Reinke’s edema,No,0,0,41
+Patient062,Benign,Papilloma,No,0,0,30
+Patient063,Malignant,Carcinoma in situ,No,1,0,70
+Patient064,Malignant,Carcinoma in situ,Yes,1,1,22
+Patient065,Malignant,SCC,Yes,1,1,29
+Patient066,Malignant,Carcinoma in situ,Yes,1,1,25
+Patient067,Malignant,SCC,No,1,0,30
+Patient068,Malignant,Carcinoma in situ,Yes,1,1,24
+Patient069,Malignant,SCC,Yes,1,1,35
+Patient070,Benign,Reinke’s edema,No,0,0,74
+Patient071,Benign,Cyst,No,0,0,53
+Patient072,Benign,Reinke’s edema,No,0,0,50
+Patient073,Benign,Reinke’s edema,No,0,0,11
+Patient074,Benign,Low grade dysplasia,No,0,0,66
+Patient075,Benign,Amyloidosis,No,0,0,55
+Patient076,Benign,Polyp,No,0,0,20
+Patient077,Benign,Reinke’s edema,No,0,0,46
+Patient078,Benign,Reinke’s edema,No,0,0,24
+Patient079,Benign,Reinke’s edema,No,0,0,80
+Patient080,Benign,Reinke’s edema,No,0,0,88
+Patient081,Benign,Low grade dysplasia,Yes,0,1,86
+Patient082,Benign,Reinke’s edema,No,0,0,57
+Patient083,Benign,Reinke’s edema,No,0,0,40
+Patient084,Benign,Low grade dysplasia,Yes,0,1,15
+Patient085,Benign,Reinke’s edema,No,0,0,80
+Patient086,Benign,Reinke’s edema,No,0,0,60
+Patient087,Benign,Cyst,No,0,0,26
+Patient088,Benign,Polyp,No,0,0,50
+Patient089,Benign,Reinke’s edema,No,0,0,66
+Patient090,Benign,Inflammation,Yes,0,1,9
+Patient091,Benign,Papilloma,No,0,0,80
+Patient092,Benign,SCC,No,0,0,45
+Patient093,Benign,Papilloma,No,0,0,55
+Patient094,Benign,Low grade dysplasia,Yes,0,1,50
+Patient095,Benign,Papilloma,No,0,0,55
+Patient096,Benign,Polyp,No,0,0,62
+Patient097,Malignant,SCC,Yes,1,1,60
+Patient098,Malignant,SCC,No,1,0,115
+Patient099,Malignant,SCC,No,1,0,186
+Patient100,Malignant,SCC,Yes,1,1,135
+Patient101,Malignant,SCC,No,1,0,20
+Patient102,Benign,Reinke’s edema,No,0,0,92
+Patient103,Benign,Cyst,No,0,0,39
+Patient104,Malignant,SCC,Yes,1,1,70
+Patient105,Malignant,SCC,Yes,1,1,146
+Patient106,Benign,Hyperkeratosis,No,0,0,74
+Patient107,Malignant,SCC,Yes,1,1,40
+Patient108,Benign,Hyperkeratosis,Yes,0,1,110
+Patient109,Benign,Low grade dysplasia,No,0,0,25
+Patient110,Malignant,High grade dysplasia,Yes,1,1,30
+Patient111,Benign,Low grade dysplasia,Yes,0,1,63
+Patient112,Benign,Reinke’s edema,No,0,0,58
+Patient113,Benign,Polyp,No,0,0,38
+Patient114,Malignant,SCC,No,1,0,80
+Patient115,Benign,Granuloma,No,0,0,45
+Patient116,Benign,Papilloma,No,0,0,79
+Patient117,Malignant,Carcinoma in situ,Yes,1,1,16
+Patient118,Benign,Squamous hyperplasia,No,0,0,21
+Patient119,Benign,Low grade dysplasia,Yes,0,1,80
+Patient120,Benign,Cyst,No,0,0,70
+Patient121,Malignant,Carcinoma in situ,No,1,0,90
+Patient122,Benign,Low grade dysplasia,No,0,0,95
+Patient123,Benign,Hemangioma,No,0,0,55
+Patient124,Benign,Hemangioma,No,0,0,20
+Patient125,Benign,Low grade dysplasia,No,0,0,80
+Patient126,Malignant,SCC,Yes,1,1,89
+Patient127,Benign,Polyp,No,0,0,88
+Patient128,Benign,Reinke’s edema,No,0,0,93
+Patient129,Benign,Low grade dysplasia,No,0,0,55
+Patient130,Benign,Papilloma,No,0,0,33
+Patient131,Benign,Polyp,No,0,0,59
+Patient132,Benign,Low grade dysplasia,No,0,0,90
+Patient133,Benign,Papilloma,No,0,0,69
+Patient134,Benign,Reinke’s edema,No,0,0,60
+Patient135,Malignant,High grade dysplasia,Yes,1,1,50
+Patient136,Benign,Reinke’s edema,No,0,0,96
+Patient137,Benign,Reinke’s edema,No,0,0,57
+Patient138,Benign,Hyperkeratosis,Yes,0,1,50
+Patient139,Benign,Reinke’s edema,No,0,0,56
+Patient140,Benign,Low grade dysplasia,Yes,0,1,80
+Patient141,Malignant,SCC,No,1,0,100
+Patient142,Malignant,High grade dysplasia,No,1,0,85
+Patient143,Benign,Reinke’s edema,No,0,0,57
+Patient144,Benign,Polyp,No,0,0,67
+Patient145,Benign,Polyp,No,0,0,74
+Patient146,Benign,Reinke’s edema,No,0,0,44
+Patient147,Benign,Hyperkeratosis,Yes,0,1,93
+Patient148,Malignant,High grade dysplasia,Yes,1,1,138
+Patient149,Malignant,SCC,Yes,1,1,5
+Patient150,Benign,Low grade dysplasia,Yes,0,1,64
+Patient151,Malignant,High grade dysplasia,Yes,1,1,69
+Patient152,Benign,Low grade dysplasia,Yes,0,1,5
+Patient153,Malignant,High grade dysplasia,Yes,1,1,119
+Patient154,Malignant,High grade dysplasia,Yes,1,1,72
+Patient155,Benign,Low grade dysplasia,Yes,0,1,95
+Patient156,Malignant,High grade dysplasia,Yes,1,1,56
+Patient157,Malignant,High grade dysplasia,Yes,1,1,5
+Patient158,Malignant,SCC,Yes,1,1,64
+Patient159,Benign,Squamous hyperplasia,Yes,0,1,84
+Patient160,Malignant,High grade dysplasia,Yes,1,1,77
+Patient161,Benign,Low grade dysplasia,Yes,0,1,5
+Patient162,Benign,Low grade dysplasia,Yes,0,1,80
+Patient163,Benign,Hyperkeratosis,Yes,0,1,17
+Patient164,Benign,Hyperkeratosis,Yes,0,1,72
+Patient165,Malignant,SCC,Yes,1,1,5
+Patient166,Benign,Reinke’s edema,No,0,0,87
+Patient167,Benign,Granuloma,No,0,0,19
+Patient168,Benign,Reinke’s edema,No,0,0,79
+Patient169,Benign,Polyp,No,0,0,30
+Patient170,Benign,Reinke’s edema,No,0,0,125
+Patient171,Benign,Papilloma,No,0,0,37
+Patient172,Malignant,SCC,No,1,0,64
+Patient173,Benign,Polyp,No,0,0,37
+Patient174,Benign,Cyst,No,0,0,28
+Patient175,Benign,Low grade dysplasia,No,0,0,46
+Patient176,Benign,Reinke’s edema,No,0,0,127
+Patient177,Malignant,SCC,No,1,0,78
+Patient178,Benign,Low grade dysplasia,No,0,0,97
+Patient179,Benign,Papilloma,No,0,0,85
+Patient180,Benign,Polyp,No,0,0,59
+Patient181,Benign,Low grade dysplasia,No,0,0,54
+Patient182,Malignant,SCC,No,1,0,80
+Patient183,Benign,Polyp,No,0,0,29
+Patient184,Benign,Reinke’s edema,No,0,0,87
+Patient185,Malignant,SCC,No,1,0,83
+Patient186,Benign,Cyst,No,0,0,41
+Patient187,Benign,Polyp,No,0,0,37
+Patient188,Malignant,Carcinoma in situ,No,1,0,125
+Patient189,Benign,Papilloma,No,0,0,74
+Patient190,Benign,Reinke’s edema,No,0,0,90
+Patient191,Benign,Reinke’s edema,No,0,0,75
+Patient192,Benign,Reinke’s edema,No,0,0,63
+Patient193,Benign,Polyp,No,0,0,42
+Patient194,Malignant,High grade dysplasia,No,1,0,98
+Patient195,Benign,Low grade dysplasia,No,0,0,45
+Patient196,Benign,Polyp,No,0,0,2
+Patient197,Benign,Reinke’s edema,No,0,0,53
+Patient198,Malignant,High grade dysplasia,No,1,0,12
+Patient199,Malignant,SCC,No,1,0,40
+Patient200,Benign,Reinke’s edema,No,0,0,39
+Patient201,Malignant,SCC,Yes,1,1,58
+Patient202,Malignant,SCC,Yes,1,1,60
+Patient203,Benign,Reinke’s edema,No,0,0,24
+Patient204,Benign,Reinke’s edema,No,0,0,90
+Patient205,Malignant,High grade dysplasia,Yes,1,1,72
+Patient206,Benign,Hyperkeratosis,Yes,0,1,24
+Patient207,Benign,Papilloma,No,0,0,86
+Patient208,Benign,Bamboo nodes,No,0,0,93
+Patient209,Benign,Papilloma,No,0,0,38
+Patient210,Benign,Hyperkeratosis,Yes,0,1,61

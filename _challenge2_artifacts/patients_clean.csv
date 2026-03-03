@@ -1,0 +1,211 @@
+Patient,Histopathology,Type of Lesion,Leukoplakia,Number of Images,Image Size,label_binary
+Patient001,SCC,Malignant,No,8.0,1280*1008 pixels,1
+Patient002,Low grade dysplasia,Benign,Yes,56.0,1280*1008 pixels,0
+Patient003,Reinke’s edema,Benign,No,30.0,1280*1008 pixels,0
+Patient004,Papilloma,Benign,No,20.0,1280*1008 pixels,0
+Patient005,Hyperkeratosis,Benign,Yes,2.0,1280*1008 pixels,0
+Patient006,High grade dysplasia,Malignant,No,13.0,1280*1008 pixels,1
+Patient007,Reinke’s edema,Benign,No,12.0,1280*1008 pixels,0
+Patient008,Papilloma,Benign,No,31.0,1280*1008 pixels,0
+Patient009,SCC,Malignant,Yes,4.0,1280*1008 pixels,1
+Patient010,Hyperkeratosis,Benign,No,12.0,1280*1008 pixels,0
+Patient011,Polyp,Benign,No,40.0,1280*1008 pixels,0
+Patient012,Reinke’s edema,Benign,No,44.0,1280*1008 pixels,0
+Patient013,Carcinoma in situ,Malignant,Yes,60.0,1280*1008 pixels,1
+Patient014,Papilloma,Benign,No,32.0,1280*1008 pixels,0
+Patient015,SCC,Malignant,Yes,73.0,1280*1008 pixels,1
+Patient016,Cyst,Benign,No,42.0,1280*1008 pixels,0
+Patient017,Low grade dysplasia,Benign,Yes,74.0,1280*1008 pixels,0
+Patient018,High grade dysplasia,Malignant,Yes,41.0,1280*1008 pixels,1
+Patient019,Polyp,Benign,No,26.0,1280*1008 pixels,0
+Patient020,Cyst,Benign,No,48.0,1280*1008 pixels,0
+Patient021,Carcinoma in situ,Malignant,Yes,15.0,1280*1008 pixels,1
+Patient022,Reinke’s edema,Benign,No,18.0,1280*1008 pixels,0
+Patient023,Hyperkeratosis,Benign,No,27.0,1280*1008 pixels,0
+Patient024,High grade dysplasia,Malignant,Yes,26.0,1280*1008 pixels,1
+Patient025,Polyp,Benign,No,10.0,1280*1008 pixels,0
+Patient026,Carcinoma in situ,Malignant,Yes,14.0,1280*1008 pixels,1
+Patient027,Reinke’s edema,Benign,No,34.0,1280*1008 pixels,0
+Patient028,Carcinoma in situ,Malignant,No,45.0,1280*1008 pixels,1
+Patient029,Reinke’s edema,Benign,No,30.0,1280*1008 pixels,0
+Patient030,Papilloma,Benign,No,17.0,1280*1008 pixels,0
+Patient031,High grade dysplasia,Malignant,Yes,40.0,1280*1008 pixels,1
+Patient032,Hyperkeratosis,Benign,No,23.0,1280*1008 pixels,0
+Patient033,Papilloma,Benign,No,56.0,1280*1008 pixels,0
+Patient034,Reinke’s edema,Benign,No,78.0,1280*1008 pixels,0
+Patient035,Papilloma,Benign,No,91.0,1280*1008 pixels,0
+Patient036,High grade dysplasia,Malignant,Yes,36.0,1280*1008 pixels,1
+Patient037,Cyst,Benign,No,60.0,1280*1008 pixels,0
+Patient038,Polyp,Benign,No,54.0,1280*1008 pixels,0
+Patient039,Squamous hyperplasia,Benign,Yes,30.0,1280*1008 pixels,0
+Patient040,Carcinoma in situ,Malignant,No,36.0,1280*1008 pixels,1
+Patient041,SCC,Malignant,No,39.0,1280*1008 pixels,1
+Patient042,Low grade dysplasia,Benign,Yes,22.0,1280*1008 pixels,0
+Patient043,Reinke’s edema,Benign,No,71.0,1280*1008 pixels,0
+Patient044,Papilloma,Benign,No,30.0,1280*1008 pixels,0
+Patient045,Papilloma,Benign,No,39.0,1280*1008 pixels,0
+Patient046,Reinke’s edema,Benign,No,30.0,1280*1008 pixels,0
+Patient047,Polyp,Benign,No,9.0,1280*1008 pixels,0
+Patient048,Hyperkeratosis,Benign,Yes,20.0,1280*1008 pixels,0
+Patient049,Nodule,Benign,No,26.0,1280*1008 pixels,0
+Patient050,SCC,Malignant,Yes,65.0,1280*1008 pixels,1
+Patient051,Granuloma,Benign,No,28.0,1280*1008 pixels,0
+Patient052,Squamous hyperplasia,Benign,No,27.0,1280*1008 pixels,0
+Patient053,Squamous hyperplasia,Benign,Yes,18.0,1280*1008 pixels,0
+Patient054,Papilloma,Benign,No,21.0,1280*1008 pixels,0
+Patient055,Amyloidosis,Benign,No,10.0,1280*1008 pixels,0
+Patient056,Amyloidosis,Benign,No,22.0,1280*1008 pixels,0
+Patient057,Papilloma,Benign,No,45.0,1280*1008 pixels,0
+Patient058,Reinke’s edema,Benign,No,17.0,1280*1008 pixels,0
+Patient059,Reinke’s edema,Benign,No,28.0,1280*1008 pixels,0
+Patient060,Hyperkeratosis,Benign,Yes,90.0,1280*1008 pixels,0
+Patient061,Reinke’s edema,Benign,No,41.0,1280*1008 pixels,0
+Patient062,Papilloma,Benign,No,30.0,1280*1008 pixels,0
+Patient063,Carcinoma in situ,Malignant,No,70.0,1280*1008 pixels,1
+Patient064,Carcinoma in situ,Malignant,Yes,22.0,1280*1008 pixels,1
+Patient065,SCC,Malignant,Yes,29.0,1280*1008 pixels,1
+Patient066,Carcinoma in situ,Malignant,Yes,25.0,1280*1008 pixels,1
+Patient067,SCC,Malignant,No,30.0,1280*1008 pixels,1
+Patient068,Carcinoma in situ,Malignant,Yes,24.0,1280*1008 pixels,1
+Patient069,SCC,Malignant,Yes,35.0,1280*1008 pixels,1
+Patient070,Reinke’s edema,Benign,No,74.0,720*544 pixels,0
+Patient071,Cyst,Benign,No,53.0,720*544 pixels,0
+Patient072,Reinke’s edema,Benign,No,50.0,1280*1008 pixels,0
+Patient073,Reinke’s edema,Benign,No,11.0,1280*1008 pixels,0
+Patient074,Low grade dysplasia,Benign,No,66.0,1280*1008 pixels,0
+Patient075,Amyloidosis,Benign,No,55.0,1280*1008 pixels,0
+Patient076,Polyp,Benign,No,20.0,1280*1008 pixels,0
+Patient077,Reinke’s edema,Benign,No,46.0,1280*1008 pixels,0
+Patient078,Reinke’s edema,Benign,No,24.0,1280*1008 pixels,0
+Patient079,Reinke’s edema,Benign,No,80.0,1280*1008 pixels,0
+Patient080,Reinke’s edema,Benign,No,88.0,1280*1008 pixels,0
+Patient081,Low grade dysplasia,Benign,Yes,86.0,1280*1008 pixels,0
+Patient082,Reinke’s edema,Benign,No,57.0,1280*1008 pixels,0
+Patient083,Reinke’s edema,Benign,No,40.0,1280*1008 pixels,0
+Patient084,Low grade dysplasia,Benign,Yes,15.0,1280*1008 pixels,0
+Patient085,Reinke’s edema,Benign,No,80.0,1280*1008 pixels,0
+Patient086,Reinke’s edema,Benign,No,60.0,1280*1008 pixels,0
+Patient087,Cyst,Benign,No,26.0,1280*1008 pixels,0
+Patient088,Polyp,Benign,No,50.0,1280*1008 pixels,0
+Patient089,Reinke’s edema,Benign,No,66.0,1280*1008 pixels,0
+Patient090,Inflammation,Benign,Yes,9.0,1280*1008 pixels,0
+Patient091,Papilloma,Benign,No,80.0,1280*1008 pixels,0
+Patient092,SCC,Benign,No,45.0,1280*1008 pixels,0
+Patient093,Papilloma,Benign,No,55.0,1280*1008 pixels,0
+Patient094,Low grade dysplasia,Benign,Yes,50.0,1280*1008 pixels,0
+Patient095,Papilloma,Benign,No,55.0,1280*1008 pixels,0
+Patient096,Polyp,Benign,No,50.0,1280*1008 pixels,0
+Patient097,SCC,Malignant,Yes,60.0,1280*1008 pixels,1
+Patient098,SCC,Malignant,No,115.0,1280*1008 pixels,1
+Patient099,SCC,Malignant,No,186.0,1280*1008 pixels,1
+Patient100,SCC,Malignant,Yes,135.0,720*544 pixels,1
+Patient101,SCC,Malignant,No,20.0,1280*1008 pixels,1
+Patient102,Reinke’s edema,Benign,No,92.0,1280*1008 pixels,0
+Patient103,Cyst,Benign,No,39.0,1280*1008 pixels,0
+Patient104,SCC,Malignant,Yes,70.0,1280*1008 pixels,1
+Patient105,SCC,Malignant,Yes,146.0,1280*1008 pixels,1
+Patient106,Hyperkeratosis,Benign,No,74.0,720*544 pixels,0
+Patient107,SCC,Malignant,Yes,40.0,720*544 pixels,1
+Patient108,Hyperkeratosis,Benign,Yes,110.0,720*544 pixels,0
+Patient109,Low grade dysplasia,Benign,No,25.0,1280*1008 pixels,0
+Patient110,High grade dysplasia,Malignant,Yes,30.0,1280*1008 pixels,1
+Patient111,Low grade dysplasia,Benign,Yes,63.0,1280*1008 pixels,0
+Patient112,Reinke’s edema,Benign,No,58.0,720*544 pixels,0
+Patient113,Polyp,Benign,No,38.0,720*544 pixels,0
+Patient114,SCC,Malignant,No,80.0,720*544 pixels,1
+Patient115,Granuloma,Benign,No,45.0,720*544 pixels,0
+Patient116,Papilloma,Benign,No,79.0,1280*1008 pixels,0
+Patient117,Carcinoma in situ,Malignant,Yes,16.0,1280*1008 pixels,1
+Patient118,Squamous hyperplasia,Benign,No,21.0,720*544 pixels,0
+Patient119,Low grade dysplasia,Benign,Yes,80.0,720*544 pixels,0
+Patient120,Cyst,Benign,No,70.0,720*544 pixels,0
+Patient121,Carcinoma in situ,Malignant,No,90.0,1280*1008 pixels,1
+Patient122,Low grade dysplasia,Benign,No,95.0,1280*1008 pixels,0
+Patient123,Hemangioma,Benign,No,55.0,1280*1008 pixels,0
+Patient124,Hemangioma,Benign,No,20.0,1280*1008 pixels,0
+Patient125,Low grade dysplasia,Benign,No,80.0,1280*1008 pixels,0
+Patient126,SCC,Malignant,Yes,89.0,1280*1008 pixels,1
+Patient127,Polyp,Benign,No,88.0,1280*1008 pixels,0
+Patient128,Reinke’s edema,Benign,No,93.0,1280*1008 pixels,0
+Patient129,Low grade dysplasia,Benign,No,55.0,1280*1008 pixels,0
+Patient130,Papilloma,Benign,No,33.0,1280*1008 pixels,0
+Patient131,Polyp,Benign,No,59.0,720*544 pixels,0
+Patient132,Low grade dysplasia,Benign,No,90.0,720*544 pixels,0
+Patient133,Papilloma,Benign,No,69.0,720*544 pixels,0
+Patient134,Reinke’s edema,Benign,No,60.0,1280*1008 pixels,0
+Patient135,High grade dysplasia,Malignant,Yes,50.0,1280*1008 pixels,1
+Patient136,Reinke’s edema,Benign,No,96.0,1280*1008 pixels,0
+Patient137,Reinke’s edema,Benign,No,57.0,1280*1008 pixels,0
+Patient138,Hyperkeratosis,Benign,Yes,50.0,1280*1008 pixels,0
+Patient139,Reinke’s edema,Benign,No,56.0,1280*1008 pixels,0
+Patient140,Low grade dysplasia,Benign,Yes,80.0,1280*1008 pixels,0
+Patient141,SCC,Malignant,No,100.0,1280*1008 pixels,1
+Patient142,High grade dysplasia,Malignant,No,85.0,1280*1008 pixels,1
+Patient143,Reinke’s edema,Benign,No,57.0,720*544 pixels,0
+Patient144,Polyp,Benign,No,67.0,1280*1008 pixels,0
+Patient145,Polyp,Benign,No,74.0,1280*1008 pixels,0
+Patient146,Reinke’s edema,Benign,No,44.0,1280*1008 pixels,0
+Patient147,Hyperkeratosis,Benign,Yes,93.0,1280*1008 pixels,0
+Patient148,High grade dysplasia,Malignant,Yes,138.0,1280*1008 pixels,1
+Patient149,SCC,Malignant,Yes,5.0,1736*1080 pixels,1
+Patient150,Low grade dysplasia,Benign,Yes,64.0,868*540 pixels,0
+Patient151,High grade dysplasia,Malignant,Yes,69.0,1736*1080 pixels,1
+Patient152,Low grade dysplasia,Benign,Yes,5.0,868*540 pixels,0
+Patient153,High grade dysplasia,Malignant,Yes,119.0,1736*1080 pixels,1
+Patient154,High grade dysplasia,Malignant,Yes,72.0,868*540 pixels,1
+Patient155,Low grade dysplasia,Benign,Yes,95.0,868*540 pixels,0
+Patient156,High grade dysplasia,Malignant,Yes,56.0,868*540 pixels,1
+Patient157,High grade dysplasia,Malignant,Yes,5.0,868*540 pixels,1
+Patient158,SCC,Malignant,Yes,64.0,868*540 pixels,1
+Patient159,Squamous hyperplasia,Benign,Yes,84.0,868*540 pixels,0
+Patient160,High grade dysplasia,Malignant,Yes,77.0,868*540 pixels,1
+Patient161,Low grade dysplasia,Benign,Yes,5.0,868*540 pixels,0
+Patient162,Low grade dysplasia,Benign,Yes,80.0,868*540 pixels,0
+Patient163,Hyperkeratosis,Benign,Yes,17.0,868*540 pixels,0
+Patient164,Hyperkeratosis,Benign,Yes,72.0,1736*1080 pixels,0
+Patient165,SCC,Malignant,Yes,5.0,1736*1080 pixels,1
+Patient166,Reinke’s edema,Benign,No,87.0,1280*1008 pixels,0
+Patient167,Granuloma,Benign,No,19.0,1280*1008 pixels,0
+Patient168,Reinke’s edema,Benign,No,79.0,1280*1008 pixels,0
+Patient169,Polyp,Benign,No,30.0,1280*1008 pixels,0
+Patient170,Reinke’s edema,Benign,No,125.0,1280*1008 pixels,0
+Patient171,Papilloma,Benign,No,37.0,1280*1008 pixels,0
+Patient172,SCC,Malignant,No,64.0,868*540 pixels,1
+Patient173,Polyp,Benign,No,37.0,868*540 pixels,0
+Patient174,Cyst,Benign,No,28.0,868*540 pixels,0
+Patient175,Low grade dysplasia,Benign,No,46.0,868*540 pixels,0
+Patient176,Reinke’s edema,Benign,No,127.0,868*540 pixels,0
+Patient177,SCC,Malignant,No,78.0,868*540 pixels,1
+Patient178,Low grade dysplasia,Benign,No,97.0,868*540 pixels,0
+Patient179,Papilloma,Benign,No,85.0,868*540 pixels,0
+Patient180,Polyp,Benign,No,59.0,868*540 pixels,0
+Patient181,Low grade dysplasia,Benign,No,54.0,1736*1080 pixels,0
+Patient182,SCC,Malignant,No,80.0,1736*1080 pixels,1
+Patient183,Polyp,Benign,No,29.0,1736*1080 pixels,0
+Patient184,Reinke’s edema,Benign,No,87.0,1736*1080 pixels,0
+Patient185,SCC,Malignant,No,83.0,1736*1080 pixels,1
+Patient186,Cyst,Benign,No,41.0,868*540 pixels,0
+Patient187,Polyp,Benign,No,37.0,868*540 pixels,0
+Patient188,Carcinoma in situ,Malignant,No,125.0,1736*1080 pixels,1
+Patient189,Papilloma,Benign,No,74.0,1736*1080 pixels,0
+Patient190,Reinke’s edema,Benign,No,90.0,1736*1080 pixels,0
+Patient191,Reinke’s edema,Benign,No,75.0,1736*1080 pixels,0
+Patient192,Reinke’s edema,Benign,No,63.0,1736*1080 pixels,0
+Patient193,Polyp,Benign,No,42.0,868*540 pixels,0
+Patient194,High grade dysplasia,Malignant,No,98.0,1736*1080 pixels,1
+Patient195,Low grade dysplasia,Benign,No,45.0,1736*1080 pixels,0
+Patient196,Polyp,Benign,No,2.0,868*540 pixels,0
+Patient197,Reinke’s edema,Benign,No,53.0,1736*1080 pixels,0
+Patient198,High grade dysplasia,Malignant,No,12.0,868*540 pixels,1
+Patient199,SCC,Malignant,No,40.0,1736*1080 pixels,1
+Patient200,Reinke’s edema,Benign,No,39.0,868*540 pixels,0
+Patient201,SCC,Malignant,Yes,58.0,868*540 pixels,1
+Patient202,SCC,Malignant,Yes,60.0,1842*1080 pixels,1
+Patient203,Reinke’s edema,Benign,No,24.0,1842*1080 pixels,0
+Patient204,Reinke’s edema,Benign,No,90.0,1842*1080 pixels,0
+Patient205,High grade dysplasia,Malignant,Yes,72.0,1842*1080 pixels,1
+Patient206,Hyperkeratosis,Benign,Yes,24.0,1842*1080 pixels,0
+Patient207,Papilloma,Benign,No,86.0,1842*1080 pixels,0
+Patient208,Bamboo nodes,Benign,No,93.0,1842*1080 pixels,0
+Patient209,Papilloma,Benign,No,38.0,1842*1080 pixels,0
+Patient210,Hyperkeratosis,Benign,Yes,61.0,1842*1080 pixels,0

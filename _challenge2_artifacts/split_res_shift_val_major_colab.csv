@@ -1,0 +1,836 @@
+filepath,Patient,modality,label_binary,Histopathology,Leukoplakia,Type of Lesion,height,width,res,res_group,split_standard,split_res_shift
+D:/ENT/Malignant/SCC/Patient101/P101 (14).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (19).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (8).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (12).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (20).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (10).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (13).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (3).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (5).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (4).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (11).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (16).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (15).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (6).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (18).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (7).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (2).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (9).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (1).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient101/P101 (17).jpg,Patient101,,1,SCC,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (32).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (2).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (6).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (37).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (26).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (31).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (42).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (10).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (17).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (14).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (15).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (40).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (22).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (12).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (1).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (24).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (41).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (4).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (27).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (19).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (38).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (23).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (9).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (21).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (30).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (29).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (20).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (35).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (34).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (3).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (39).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (13).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (28).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (36).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (16).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (33).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (44).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (7).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (25).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (18).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (43).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (11).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (8).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (45).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient092/P092 (5).jpg,Patient092,,0,SCC,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/SCC/Patient065/P065 (6).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (20).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (8).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (12).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (15).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (29).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (19).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (21).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (24).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (23).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (16).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (17).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (4).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (13).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (11).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (9).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (18).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (7).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (1).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (26).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (2).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (27).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (28).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (25).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (3).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (22).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (10).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (5).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/SCC/Patient065/P065 (14).jpg,Patient065,,1,SCC,Yes,Malignant,1008,1280,1280x1008,major,val,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (11).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (17).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (13).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (33).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (28).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (6).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (25).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (9).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (18).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (22).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (2).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (23).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (32).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (12).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (34).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (29).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (20).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (10).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (7).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (21).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (24).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (15).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (16).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (35).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (3).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (19).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (26).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (8).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (27).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (31).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (14).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (36).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (4).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (5).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (30).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/High_grade_dysplasia/Patient036/P036 (1).jpg,Patient036,,1,High grade dysplasia,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (46).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (54).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (26).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (44).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (11).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (13).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (62).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (37).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (51).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (59).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (32).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (24).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (56).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (60).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (39).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (50).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (36).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (12).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (30).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (21).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (10).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (58).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (41).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (15).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (45).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (20).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (43).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (23).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (35).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (14).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (57).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (22).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (63).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (64).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (28).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (2).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (33).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (6).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (61).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (17).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (40).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (49).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (25).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (27).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (18).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (3).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (55).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (5).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (52).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (48).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (42).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (53).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (34).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (47).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (4).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (16).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (19).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (29).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (1).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (38).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (31).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (66).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (69).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (7).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (9).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (67).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (68).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (70).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (8).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient063/P063 (65).jpg,Patient063,,1,Carcinoma in situ,No,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (8).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (13).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (12).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (4).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (2).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (9).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (5).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (14).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (7).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (11).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (3).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (10).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (1).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (6).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Malignant/Carcinoma_in_situ/Patient021/P021 (15).jpg,Patient021,,1,Carcinoma in situ,Yes,Malignant,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (20).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (2).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (9).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (8).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (22).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (23).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (18).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (25).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (5).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (12).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (10).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (14).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (24).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (26).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (15).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (28).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (1).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (29).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (16).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (7).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (6).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (3).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (30).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (19).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (4).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (13).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (21).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (11).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (27).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient169/P169 (17).jpg,Patient169,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (19).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (20).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (12).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (2).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (11).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (3).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (8).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (10).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (5).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (1).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (9).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (15).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (13).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (7).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (4).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (14).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (6).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (18).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (17).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient076/P076 (16).jpg,Patient076,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (9).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (3).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (2).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (5).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (1).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (7).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (8).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (6).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient047/P047 (4).jpg,Patient047,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (25).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (31).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (49).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (23).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (6).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (46).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (12).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (52).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (50).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (14).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (36).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (43).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (41).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (9).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (37).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (15).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (8).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (18).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (42).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (44).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (3).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (39).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (51).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (38).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (4).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (27).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (2).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (48).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (29).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (53).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (33).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (24).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (7).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (17).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (13).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (10).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (28).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (30).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (35).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (26).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (19).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (1).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (5).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (54).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (45).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (20).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (47).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (21).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (11).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (40).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (22).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (16).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (34).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Polyp/Patient038/P038 (32).jpg,Patient038,,0,Polyp,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (75).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (4).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (83).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (23).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (82).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (85).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (11).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (39).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (46).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (29).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (21).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (2).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (45).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (20).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (61).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (63).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (10).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (22).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (26).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (25).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (31).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (54).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (53).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (37).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (28).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (12).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (1).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (3).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (60).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (66).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (70).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (87).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (38).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (84).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (44).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (19).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (58).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (68).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (65).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (5).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (64).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (67).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (42).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (27).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (8).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (56).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (74).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (30).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (59).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (55).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (50).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (15).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (40).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (41).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (13).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (77).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (6).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (81).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (57).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (76).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (35).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (47).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (52).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (48).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (73).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (18).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (71).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (62).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (78).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (69).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (49).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (72).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (79).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (17).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (16).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (36).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (9).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (51).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (43).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (80).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (32).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (14).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (34).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (24).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (33).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (7).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient166/P166 (86).jpg,Patient166,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (52).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (6).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (11).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (7).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (53).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (25).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (3).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (14).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (5).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (2).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (9).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (24).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (13).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (39).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (51).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (35).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (30).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (42).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (1).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (48).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (21).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (16).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (27).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (46).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (44).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (41).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (56).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (34).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (40).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (36).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (26).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (54).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (10).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (8).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (47).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (49).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (57).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (38).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (20).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (33).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (31).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (55).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (4).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (17).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (19).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (28).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (15).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (18).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (12).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (22).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (32).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (23).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (45).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (37).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (50).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (43).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient082/P082 (29).jpg,Patient082,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (28).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (14).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (7).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (18).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (68).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (65).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (39).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (10).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (52).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (55).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (23).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (50).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (35).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (51).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (58).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (27).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (4).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (33).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (42).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (1).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (57).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (70).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (3).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (32).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (19).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (22).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (59).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (56).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (13).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (53).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (67).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (63).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (45).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (6).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (41).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (12).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (43).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (2).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (49).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (66).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (74).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (69).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (30).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (40).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (47).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (60).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (17).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (16).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (54).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (46).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (34).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (25).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (36).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (64).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (15).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (62).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (48).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (73).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (24).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (11).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (26).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (61).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (72).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (20).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (37).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (21).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (44).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (71).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (38).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (31).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (5).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (29).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (80).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (9).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (78).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (79).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (8).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (77).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (76).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient079/P079 (75).jpg,Patient079,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,val,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (7).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (3).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (10).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (11).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (9).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (1).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (5).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (4).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (8).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (2).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient073/P073 (6).jpg,Patient073,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (13).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (17).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (12).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (34).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (24).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (23).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (36).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (15).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (20).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (35).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (2).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (28).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (11).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (33).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (14).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (31).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (37).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (29).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (32).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (10).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (30).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (22).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (25).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (27).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (38).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (21).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (19).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (3).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (26).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (16).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (18).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (1).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (39).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (8).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (4).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (44).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (40).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (5).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (9).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (42).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (41).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (43).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (6).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Reinkes_edema/Patient012/P012 (7).jpg,Patient012,,0,Reinke’s edema,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (23).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (27).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (41).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (26).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (45).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (44).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (49).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (35).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (16).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (38).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (5).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (6).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (17).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (15).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (29).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (37).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (39).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (14).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (22).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (30).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (4).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (10).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (11).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (1).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (33).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (25).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (50).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (42).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (7).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (8).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (47).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (28).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (32).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (46).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (31).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (2).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (3).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (34).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (21).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (19).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (48).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (12).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (18).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (40).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (36).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (24).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (13).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (20).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (9).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient094/P094 (43).jpg,Patient094,,0,Low grade dysplasia,Yes,Benign,1008,1280,1280x1008,major,test,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (42).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (26).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (3).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (34).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (18).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (9).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (11).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (2).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (63).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (57).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (28).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (25).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (62).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (50).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (40).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (49).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (51).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (47).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (53).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (29).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (12).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (1).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (43).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (17).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (41).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (54).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (23).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (55).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (38).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (45).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (21).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (32).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (52).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (7).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (19).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (66).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (6).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (48).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (20).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (16).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (27).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (46).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (64).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (24).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (35).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (10).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (8).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (60).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (4).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (14).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (37).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (13).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (15).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (33).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (61).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (31).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (44).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (59).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (30).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (36).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (5).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (22).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (58).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (39).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (65).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Low_grade_dysplasia/Patient074/P074 (56).jpg,Patient074,,0,Low grade dysplasia,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (15).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (11).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (22).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (9).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (3).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (20).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (1).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (30).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (25).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (5).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (29).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (21).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (28).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (8).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (26).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (4).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (16).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (24).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (6).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (7).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (14).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (17).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (10).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (12).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (19).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (18).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (27).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (2).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (13).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Hyperplasia/Patient039/P039 (23).jpg,Patient039,,0,Squamous hyperplasia,Yes,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (1).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (4).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (2).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (19).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (14).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (17).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (9).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (18).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (5).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (12).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (15).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (11).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (8).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (7).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (21).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (13).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (3).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (20).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (22).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (16).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (6).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Amyloidosis/Patient056/P056 (10).jpg,Patient056,,0,Amyloidosis,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (24).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (15).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (43).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (45).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (18).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (28).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (54).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (51).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (59).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (41).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (34).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (26).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (29).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (57).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (17).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (60).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (14).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (16).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (53).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (11).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (50).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (32).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (21).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (44).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (13).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (5).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (31).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (35).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (27).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (56).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (8).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (7).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (20).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (39).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (12).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (2).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (52).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (6).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (9).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (36).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (46).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (25).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (3).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (38).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (33).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (19).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (47).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (48).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (37).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (42).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (1).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (49).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (4).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (30).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (10).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (58).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (23).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (55).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (22).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
+D:/ENT/Benign/Cyst/Patient037/P037 (40).jpg,Patient037,,0,Cyst,No,Benign,1008,1280,1280x1008,major,train,val
